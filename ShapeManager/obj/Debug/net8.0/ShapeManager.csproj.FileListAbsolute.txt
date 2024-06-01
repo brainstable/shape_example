@@ -1,0 +1,14 @@
+C:\Users\One\RiderProjects\ShapeManager\ShapeManager\bin\Debug\net8.0\ShapeManager.exe
+C:\Users\One\RiderProjects\ShapeManager\ShapeManager\bin\Debug\net8.0\ShapeManager.deps.json
+C:\Users\One\RiderProjects\ShapeManager\ShapeManager\bin\Debug\net8.0\ShapeManager.runtimeconfig.json
+C:\Users\One\RiderProjects\ShapeManager\ShapeManager\bin\Debug\net8.0\ShapeManager.dll
+C:\Users\One\RiderProjects\ShapeManager\ShapeManager\bin\Debug\net8.0\ShapeManager.pdb
+C:\Users\One\RiderProjects\ShapeManager\ShapeManager\obj\Debug\net8.0\ShapeManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\One\RiderProjects\ShapeManager\ShapeManager\obj\Debug\net8.0\ShapeManager.AssemblyInfoInputs.cache
+C:\Users\One\RiderProjects\ShapeManager\ShapeManager\obj\Debug\net8.0\ShapeManager.AssemblyInfo.cs
+C:\Users\One\RiderProjects\ShapeManager\ShapeManager\obj\Debug\net8.0\ShapeManager.csproj.CoreCompileInputs.cache
+C:\Users\One\RiderProjects\ShapeManager\ShapeManager\obj\Debug\net8.0\ShapeManager.dll
+C:\Users\One\RiderProjects\ShapeManager\ShapeManager\obj\Debug\net8.0\refint\ShapeManager.dll
+C:\Users\One\RiderProjects\ShapeManager\ShapeManager\obj\Debug\net8.0\ShapeManager.pdb
+C:\Users\One\RiderProjects\ShapeManager\ShapeManager\obj\Debug\net8.0\ShapeManager.genruntimeconfig.cache
+C:\Users\One\RiderProjects\ShapeManager\ShapeManager\obj\Debug\net8.0\ref\ShapeManager.dll
