@@ -7,9 +7,9 @@ public class TestShapeManager
 {
     [TestCase(0)]
     [TestCase(-1)]
-    public void ArgumentException_WhenCreateCircle(double r)
+    public void ArgumentOutOfRangeException_WhenCreateCircle(double r)
     {
-        Assert.Throws<ArgumentException>(() => new Circle(r));
+        Assert.Throws<ArgumentOutOfRangeException>(() => new Circle(r));
     }
     
     [TestCase(0, 0, 0)]
@@ -20,9 +20,9 @@ public class TestShapeManager
     [TestCase(-1, 1, 2)]
     [TestCase(1, -1, 2)]
     [TestCase(2, 1, -1)]
-    public void ArgumentException_WhenCreateTriangle(double a, double b, double c)
+    public void ArgumentOutOfRangeException_WhenCreateTriangle(double a, double b, double c)
     {
-        Assert.Throws<ArgumentException>(() => new Triangle(a, b, c));
+        Assert.Throws<ArgumentOutOfRangeException>(() => new Triangle(a, b, c));
     }
     
     [TestCase(1, 2, 4)]

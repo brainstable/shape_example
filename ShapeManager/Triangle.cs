@@ -9,7 +9,7 @@ public class Triangle : Shape
     public Triangle(double a, double b, double c)
     {
         if (a <= 0 || b <= 0 || c <= 0)
-            throw new ArgumentException("Ни одна сторона треугольника не может быть меньше или равна нулю");
+            throw new ArgumentOutOfRangeException("Ни одна сторона треугольника не может быть меньше или равна нулю");
 
         if (a >= b + c || b >= a + c || c >= a + b)
             throw new Exception("Треугольник с такими сторонами не существует");
