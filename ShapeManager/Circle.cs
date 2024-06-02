@@ -7,7 +7,7 @@ public class Circle : Shape
     public Circle(double r)
     {
         if (r <= 0)
-            throw new ArgumentException("Радиус круга не может быть меньше или равен нулю");
+            throw new ArgumentOutOfRangeException("Радиус круга не может быть меньше или равен нулю");
         
         this.r = r;
         Name = "Круг";
